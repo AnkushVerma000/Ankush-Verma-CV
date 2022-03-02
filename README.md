@@ -1,1 +1,3 @@
-# Ankush-Verma-CV
+# Ankush-Verma-Resume
+
+>>> Resume created using HTML and CSS <<<
