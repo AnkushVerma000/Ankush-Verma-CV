@@ -1,7 +1,8 @@
 # Ankush-Verma-Resume
-
-
-
-Resume created using HTML and CSS <<<
 <br><br>
+ >>> Resume created using HTML and CSS <<<
+<br><br>
+
+##Language Used
+   HTML and CSS
 
